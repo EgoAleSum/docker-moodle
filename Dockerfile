@@ -16,4 +16,4 @@ RUN chmod +x /start-container.sh
 
 EXPOSE 80 443
 
-CMD ["/etc/apache2/foreground.sh"]
+CMD ["/start-container.sh"]
