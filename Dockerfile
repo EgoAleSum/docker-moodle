@@ -1,4 +1,4 @@
-FROM jhardison/moodle/
+FROM jhardison/moodle
 MAINTAINER Alessandro Segala <no@email.com>
 
 EXPOSE 80 443
